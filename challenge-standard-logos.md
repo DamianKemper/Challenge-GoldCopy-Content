@@ -1,14 +1,15 @@
 <style>
 .instructions .logo-guided {
-    background-image: url(https://lodmanuals.blob.core.windows.net/lms/2020%20Challenge%20Labs%20Graphics/Challenge-Labs-Guided-16x9.jpg);
+    background-image: url(https://lodmanuals.blob.core.windows.net/lms/SkillChalllogo/ChallengesGuide.png);
 }
 
 .instructions .logo-advanced {
-    background-image: url(https://lodmanuals.blob.core.windows.net/lms/2020%20Challenge%20Labs%20Graphics/Challenge-Labs-Advanced-16x9.jpg);
+    background-image: url(https://lodmanuals.blob.core.windows.net/lms/SkillChalllogo/ChallengesAdv.png);
 }
 
 .instructions .logo-expert {
-    background-image: url(https://lodmanuals.blob.core.windows.net/lms/2020%20Challenge%20Labs%20Graphics/Challenge-Labs-Expert-16x9.jpg);
+    background-image: url(https://lodmanuals.blob.core.windows.net/lms/SkillChalllogo/ChallengesExp.png);
 }
 
 </style>
+
